@@ -7,7 +7,7 @@ import (
 	"io"
 	"reflect"
 
-	engineio "github.com/googollee/go-engine.io"
+	engineio "github.com/greatnonprofits-nfp/go-engine.io"
 )
 
 type FrameWriter interface {

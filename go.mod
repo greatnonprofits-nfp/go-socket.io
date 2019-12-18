@@ -1,6 +1,6 @@
-module github.com/googollee/go-socket.io
+module github.com/greatnonprofits-nfp/go-socket.io
 
 require (
-	github.com/googollee/go-engine.io v1.4.1
+	github.com/greatnonprofits-nfp/go-engine.io v0.0.0-20191217233056-9f710d11cfd0
 	github.com/stretchr/testify v1.3.0
 )

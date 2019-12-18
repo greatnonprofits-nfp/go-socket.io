@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"sync"
 
-	engineio "github.com/googollee/go-engine.io"
+	engineio "github.com/greatnonprofits-nfp/go-engine.io"
 
-	"github.com/googollee/go-socket.io/parser"
+	"github.com/greatnonprofits-nfp/go-socket.io/parser"
 )
 
 // Conn is a connection in go-socket.io
